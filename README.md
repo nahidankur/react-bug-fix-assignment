@@ -1,4 +1,4 @@
-# Documentation: Bug Fix - ComingSoon Component Export
+# Documentation: Bug Fix
 
 ## Bug Description
 The bug encountered was related to the export of the `ComingSoon` component. It was not exported as a default component, which was expected.
